@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-  int firstNumber = 50;
-  int secondNumber = 100;
+  int firstNumber = 25;
+  int secondNumber = 75;
   int total = firstNumber + secondNumber;
 
   cout << "Total: " << total << endl;
