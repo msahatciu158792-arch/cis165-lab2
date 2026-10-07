@@ -1,4 +1,3 @@
-c++
 #include <ionstream>
 using namespace std;
 
