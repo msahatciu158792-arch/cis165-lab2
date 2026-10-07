@@ -22,3 +22,15 @@ I will store 312 miles and 16 gallons in variable. I will divide the miles by th
 -Expected result: 100
 -Actual output: Total: 100
 -Match: Yes
+
+### Test 3 - Miles Per Gallon
+- Values: 312 miles and 16 gallons
+- Expected result : 19.5
+- Actual output: Miles per gallon: 19.5 MPG
+- Match Yes
+
+### Test 4 - Miles Per Gallon
+- Values: 250 miles and 12 gallons
+- Expected result: 20.8333... MPG
+- Actual output: 20.8333 MPG
+- Match: Yes
